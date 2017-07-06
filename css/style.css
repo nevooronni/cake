@@ -1,0 +1,44 @@
+
+#color {
+  background-color: #fbdbe6;
+}
+
+#height {
+  height: 200px;
+}
+
+#margin {
+  margin-bottom: 0;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.footer {
+  background-color: #683222;
+}
+
+a {
+  color: red;
+}
+
+#footer {
+  color: red;
+}
+
+.best {
+  border-radius: 50%;
+}
+
+.border {
+  border-radius: 50%;
+}
+
+.height {
+  margin: 10px 0 10px 0;
+  padding: 10px 0 10px 0;
+}  
+
